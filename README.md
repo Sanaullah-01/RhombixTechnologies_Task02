@@ -76,6 +76,12 @@ The application will run on `http://127.0.0.1:5000/`. The SQLite database will b
 - `POST /chat` - Expects JSON payload `{"message": "user text"}`. Returns proper response text and intent data.
 - `GET /logs` - Admin route displaying the last 100 logged interactions.
 
+- 
+## 🔗 Connect with Me
+- **LinkedIn:** [https://www.linkedin.com/in/sana-ullah-aa370b32a]
+- **GitHub:** [https://github.com/Sanaullah-01]
+
+
 ## Future Improvements
 - Implement JWT or session-based authentication for the `/logs` route.
 - Add multi-language intent classification using embeddings.
